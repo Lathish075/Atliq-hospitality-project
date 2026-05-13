@@ -1,7 +1,5 @@
 # Atliq-hospitality-project
 
-# Atliq Hospitality Power BI Analysis
-
 ## Project Overview
 AtliQ Grand, a leading five-star hotel chain in India with over 20 years in the hospitality industry, is facing challenges in maintaining market share and revenue. This project leverages business and data intelligence to provide actionable insights for decision-making, helping AtliQ Grand regain its competitive edge in the luxury and business hotel sectors.
 
